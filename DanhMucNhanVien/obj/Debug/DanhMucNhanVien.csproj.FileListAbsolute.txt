@@ -1,0 +1,10 @@
+D:\thi C#\DanhMucNhanVien\bin\Debug\DanhMucNhanVien.exe.config
+D:\thi C#\DanhMucNhanVien\bin\Debug\DanhMucNhanVien.exe
+D:\thi C#\DanhMucNhanVien\bin\Debug\DanhMucNhanVien.pdb
+D:\thi C#\DanhMucNhanVien\obj\Debug\DanhMucNhanVien.csproj.AssemblyReference.cache
+D:\thi C#\DanhMucNhanVien\obj\Debug\DanhMucNhanVien.Properties.Resources.resources
+D:\thi C#\DanhMucNhanVien\obj\Debug\DanhMucNhanVien.csproj.GenerateResource.cache
+D:\thi C#\DanhMucNhanVien\obj\Debug\DanhMucNhanVien.csproj.CoreCompileInputs.cache
+D:\thi C#\DanhMucNhanVien\obj\Debug\DanhMucNhanVien.exe
+D:\thi C#\DanhMucNhanVien\obj\Debug\DanhMucNhanVien.pdb
+D:\thi C#\DanhMucNhanVien\obj\Debug\DanhMucNhanVien.NhanVien.resources

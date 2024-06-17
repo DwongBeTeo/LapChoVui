@@ -1,0 +1,11 @@
+D:\thi C#\prj_2210900097\obj\Debug\prj_2210900097.csproj.AssemblyReference.cache
+D:\thi C#\prj_2210900097\obj\Debug\prj_2210900097.Form1.resources
+D:\thi C#\prj_2210900097\obj\Debug\prj_2210900097.Properties.Resources.resources
+D:\thi C#\prj_2210900097\obj\Debug\prj_2210900097.csproj.GenerateResource.cache
+D:\thi C#\prj_2210900097\obj\Debug\prj_2210900097.csproj.CoreCompileInputs.cache
+D:\thi C#\prj_2210900097\bin\Debug\prj_2210900097.exe.config
+D:\thi C#\prj_2210900097\bin\Debug\prj_2210900097.exe
+D:\thi C#\prj_2210900097\bin\Debug\prj_2210900097.pdb
+D:\thi C#\prj_2210900097\obj\Debug\prj_2210900097.Form2.resources
+D:\thi C#\prj_2210900097\obj\Debug\prj_2210900097.exe
+D:\thi C#\prj_2210900097\obj\Debug\prj_2210900097.pdb
